@@ -1,3 +1,5 @@
+package lesson_42_1;
+
 import java.io.IOException;
 
 public class Main {

@@ -1,3 +1,5 @@
+package lesson_42_1;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -6,7 +8,7 @@ import java.net.URL;
 import java.net.URLConnection;
 
 class ReadHtmlPage_URLConnection {
-    private String urlAdress = "http://127.0.0.1:8080/lesson23";
+    private String urlAdress = "http://127.0.0.1:8080/vanila";
     private URLConnection urlConnection = null;
     private URL url = null;
     private InputStreamReader inputStreamReader = null;
