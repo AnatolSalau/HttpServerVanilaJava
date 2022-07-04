@@ -8,7 +8,7 @@ import java.net.URL;
 import java.net.URLConnection;
 
 class ReadHtmlPage_URLConnection {
-    private String urlAdress = "http://127.0.0.1:8080/vanila";
+    private String urlAdress = "http://127.0.0.1:8080/vanilajava";
     private URLConnection urlConnection = null;
     private URL url = null;
     private InputStreamReader inputStreamReader = null;

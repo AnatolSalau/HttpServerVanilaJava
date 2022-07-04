@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd946c50-4025-40a0-a7ad-c4d2727c6efd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_42_6/HttpUrlConnectionPost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_42_6/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson_42_1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ReadHtmlPage_HttpURLConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson_42_1/ReadHtmlPage_HttpURLConnection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ReadHtmlPage_URLConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson_42_1/ReadHtmlPage_URLConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_42_1/ReadHtmlPage_HttpURLConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson_42_1/ReadHtmlPage_HttpURLConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_42_1/ReadHtmlPage_URLConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson_42_1/ReadHtmlPage_URLConnection.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,6 +120,7 @@
       <workItem from="1656924943857" duration="970000" />
       <workItem from="1656927721420" duration="777000" />
       <workItem from="1656928665838" duration="715000" />
+      <workItem from="1656940828743" duration="115000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize maven repository">
       <created>1656669357388</created>
@@ -142,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656680910800</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Lesson 42.1 Url and HttpUrlConnection">
+      <created>1656940856649</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656940856649</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

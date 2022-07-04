@@ -8,7 +8,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 
 class ReadHtmlPage_HttpURLConnection {
-    private String urlAdress = "http://127.0.0.1:8080/vanila";
+    private String urlAdress = "http://127.0.0.1:8080/vanilajava";
     private HttpURLConnection httpURLConnection = null;
     private URL url = null;
     private InputStreamReader inputStreamReader = null;
